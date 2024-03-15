@@ -1,1 +1,0 @@
-import{u as t}from"./vue.f36acd1f.BzXXNvyp.js";import{c as a,b as e,s as o,o as r}from"./entry.a6uMLWID.js";const n={dir:"rtl",class:"main_area"},c=e("div",null,[e("header")],-1),_={class:"container mx-auto"},u={__name:"zakroon",setup(d){return t({htmlAttrs:"ar"}),(s,l)=>(r(),a("div",n,[c,e("div",_,[o(s.$slots,"default")])]))}};export{u as default};
