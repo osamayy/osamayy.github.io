@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://osamayy.github.io/zakroon/sitemap.xml
