@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as o,o as n}from"./BrXFIG87.js";const r={};function s(c,e){return n(),a("div",null,e[0]||(e[0]=[o("h2",null,"About",-1),o("p",null,"000000 ",-1)]))}const _=t(r,[["render",s],["__scopeId","data-v-65192493"]]);export{_ as default};
