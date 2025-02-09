@@ -1,0 +1,1 @@
+import{m as a,j as t,n as c,o as p,p as r,f as m,q as i}from"./IcYxwPJ0.js";const u=a({__name:"BootstrapIcon",props:{name:{},as:{}},setup(s){const e=s,n=t(()=>typeof e.name=="object"?Object.keys(e.name).filter(o=>e.name[o]).join(""):e.name);return(o,l)=>(p(),c(i(o.$props.as??"i"),{class:r(["bi",`bi-${m(n)}`])},null,8,["class"]))}});export{u as _};
