@@ -1,1 +1,0 @@
-import{_ as r,c as t,a as e,b as n,o}from"./IcYxwPJ0.js";const c={};function s(d,a){return o(),t("div",null,a[0]||(a[0]=[e("h2",null,"بوابة أسامة UX",-1),e("p",null,[n(" مرحبا بك، "),e("br"),e("br")],-1)]))}const _=r(c,[["render",s],["__scopeId","data-v-3df8aec6"]]);export{_ as default};
