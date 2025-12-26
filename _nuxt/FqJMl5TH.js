@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as e,a as s}from"./BKrsMiW2.js";const n={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return e(),t("svg",a,[..._[0]||(_[0]=[s("path",{d:"M8 12a4 4 0 1 1 0-8 4 4 0 0 1 0 8m0 1A5 5 0 1 0 8 3a5 5 0 0 0 0 10"},null,-1)])])}const l=o(n,[["render",r]]);export{l as default};
