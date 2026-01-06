@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,a as e}from"./owf2tpa5.js";const n={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return o(),t("svg",a,[..._[0]||(_[0]=[e("path",{d:"M11.354 4.646a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708l6-6a.5.5 0 0 1 .708 0"},null,-1)])])}const F=s(n,[["render",r]]);export{F as default};

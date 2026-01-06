@@ -1,0 +1,1 @@
+import{_ as r,c as t,a as e,e as n,o}from"./owf2tpa5.js";const c={};function s(l,a){return o(),t("div",null,[...a[0]||(a[0]=[e("h2",null,"بوابة أسامة UX/CX",-1),e("p",null,[n(" مرحبا بك، "),e("br"),e("br")],-1)])])}const _=r(c,[["render",s],["__scopeId","data-v-a857cf2a"]]);export{_ as default};

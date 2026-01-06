@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./owf2tpa5.js";const n={},c={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(a,_){return s(),o("svg",c,[..._[0]||(_[0]=[t("circle",{cx:"8",cy:"8",r:"8"},null,-1)])])}const F=e(n,[["render",r]]);export{F as default};

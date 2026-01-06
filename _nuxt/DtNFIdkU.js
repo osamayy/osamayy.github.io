@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as e,a as n}from"./B05ANdum.js";const s={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function c(r,_){return e(),t("svg",a,[..._[0]||(_[0]=[n("path",{d:"M7.03 1.88c.252-1.01 1.688-1.01 1.94 0l2.905 11.62H14a.5.5 0 0 1 0 1H2a.5.5 0 0 1 0-1h2.125z"},null,-1)])])}const F=o(s,[["render",c]]);export{F as default};
