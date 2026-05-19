@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as n,a as o}from"./BRiNzA22.js";const e={},r={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function a(c,_){return s(),n("svg",r,[..._[0]||(_[0]=[o("path",{d:"m.334 0 4.358 4.359h7.15v7.15l4.358 4.358V0zM.2 9.72l4.487-4.488v6.281h6.28L6.48 16H.2z"},null,-1)])])}const m=t(e,[["render",a]]);export{m as default};
