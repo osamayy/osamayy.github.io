@@ -1,1 +1,0 @@
-import{_,o,c as s,a as n}from"./BRiNzA22.js";const e={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,t){return o(),s("svg",a,[...t[0]||(t[0]=[n("path",{d:"M5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11V5A1.5 1.5 0 0 1 5 3.5"},null,-1)])])}const F=_(e,[["render",r]]);export{F as default};
