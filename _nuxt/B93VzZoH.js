@@ -1,0 +1,1 @@
+import{_,o as n,c as o,a as s}from"./DxxEVThu.js";const a={},e={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,t){return n(),o("svg",e,[...t[0]||(t[0]=[s("path",{d:"M7.005 3.1a1 1 0 1 1 1.99 0l-.388 6.35a.61.61 0 0 1-1.214 0zM7 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0"},null,-1)])])}const m=_(a,[["render",r]]);export{m as default};
