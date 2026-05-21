@@ -1,1 +1,0 @@
-import{_ as t,o as s,c as n,a as o}from"./DDLbxkEU.js";const e={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return s(),n("svg",a,[..._[0]||(_[0]=[o("path",{d:"M14 10a6 6 0 0 1-12 0C2 5.686 5 0 8 0s6 5.686 6 10"},null,-1)])])}const F=t(e,[["render",r]]);export{F as default};
