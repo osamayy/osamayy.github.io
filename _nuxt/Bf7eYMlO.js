@@ -1,1 +1,0 @@
-import{_ as t,o as n,c as o,a as s}from"./DvRwp_MR.js";const e={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return n(),o("svg",a,[..._[0]||(_[0]=[s("path",{d:"M5 3a5 5 0 0 0 0 10h6a5 5 0 0 0 0-10zm6 9a4 4 0 1 1 0-8 4 4 0 0 1 0 8"},null,-1)])])}const m=t(e,[["render",r]]);export{m as default};
