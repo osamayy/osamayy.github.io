@@ -20,8 +20,5 @@ User-agent: BLEXBot
 User-agent: magpie-crawler
 Disallow: /
 
-User-agent: *
-Disallow: 
-
 Sitemap: https://osamayy.github.io/sitemap_index.xml
 # END nuxt-robots
