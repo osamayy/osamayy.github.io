@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as e,D as n,o}from"./oT0Ceo26.js";const c={};function s(l,r){return o(),a("div",null,[...r[0]||(r[0]=[e("h2",null,"بوابة أسامة ",-1),e("p",null,[n(" مرحبا بك، "),e("br"),e("br")],-1)])])}const _=t(c,[["render",s],["__scopeId","data-v-67505c82"]]);export{_ as default};
