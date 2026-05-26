@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as e,a as n}from"./C3kkDPPn.js";const o={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return s(),e("svg",a,[..._[0]||(_[0]=[n("path",{d:"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"},null,-1)])])}const m=t(o,[["render",r]]);export{m as default};
