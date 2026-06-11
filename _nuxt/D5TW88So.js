@@ -1,1 +1,0 @@
-import{_ as t,o as s,c as o,a as e}from"./D8thotCE.js";const n={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return s(),o("svg",a,[..._[0]||(_[0]=[e("path",{d:"M3 5a5 5 0 0 1 10 0v6a5 5 0 0 1-10 0zm5.5-1.5a.5.5 0 0 0-1 0v2a.5.5 0 0 0 1 0z"},null,-1)])])}const F=t(n,[["render",r]]);export{F as default};
