@@ -1,0 +1,1 @@
+import{s as e}from"#entry";var t=e(`/osama.webp`);export{t};

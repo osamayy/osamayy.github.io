@@ -1,0 +1,1 @@
+import{i as e}from"./eQXQCOk3.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};

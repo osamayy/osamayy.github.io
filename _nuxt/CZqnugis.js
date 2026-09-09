@@ -1,0 +1,1 @@
+import{I as e,d as t,m as n}from"./DuBmTRsA.js";import{t as r}from"#entry";var i={},a={xmlns:`http://www.w3.org/2000/svg`,"xmlns:xlink":`http://www.w3.org/1999/xlink`};function o(r,i){return e(),n(`svg`,a,[...i[0]||=[t(`path`,{d:`M13.405 7.027a5.001 5.001 0 0 0-9.499-1.004A3.5 3.5 0 1 0 3.5 13H13a3 3 0 0 0 .405-5.973`},null,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};

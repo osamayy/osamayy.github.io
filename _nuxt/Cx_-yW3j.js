@@ -1,0 +1,1 @@
+import{c as e,i as t,m as n,p as r}from"./eQXQCOk3.js";import{p as i}from"./T9N48dF6.js";var a=t({defaults:{"@type":`MusicGroup`},idPrefix:`host`,inheritMeta:[{meta:`host`,key:`url`}],resolve(t,a){return t.foundingDate&&=e(t.foundingDate),t.dissolutionDate&&=e(t.dissolutionDate),t.url&&=n(a.meta.host,t.url),t.member=r(t.member,a,i),t}});export{a as musicGroupResolver};
